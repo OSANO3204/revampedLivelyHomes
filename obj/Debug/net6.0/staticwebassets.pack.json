@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\EmailBody.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\EmailBody.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\EmailOnTenantRegistration.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\EmailOnTenantRegistration.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\SentonContactUsmessage.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\SentonContactUsmessage.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\automated_rent_payment_Date.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\automated_rent_payment_Date.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\automaticallysentbody.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\automaticallysentbody.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\emailOnSuccessfulLogin.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\emailOnSuccessfulLogin.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\email_on_request_to_technician.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\email_on_request_to_technician.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\email_sent_to_remind_Tenant_of_rent_payment.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\email_sent_to_remind_Tenant_of_rent_payment.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\email_to_requester.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\email_to_requester.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\emailsentToTenantonRegistration.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\emailsentToTenantonRegistration.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\htmlpage.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\htmlpage.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\newuserRegistration.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\newuserRegistration.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\receipt_On_Payment.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\receipt_On_Payment.html"
+    },
+    {
+      "Id": "D:\\PesonZ\\home_new\\LivelyHomesBack\\HousingProject.API\\wwwroot\\Templates\\Email\\replyMessage.html",
+      "PackagePath": "staticwebassets\\Templates\\Email\\replyMessage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HousingProject.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HousingProject.API.props",
+      "PackagePath": "build\\HousingProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HousingProject.API.props",
+      "PackagePath": "buildMultiTargeting\\HousingProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HousingProject.API.props",
+      "PackagePath": "buildTransitive\\HousingProject.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
